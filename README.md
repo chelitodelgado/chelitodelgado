@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/chelitodelgado/chelitodelgado/blob/main/banner-apt-github.png">
+<img align="right" width="500" height="500" src="https://github.com/chelitodelgado/chelitodelgado/blob/main/banner-github.png">
 
 
 # Hola, soy Angel Paredes Torres.
