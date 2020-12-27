@@ -24,6 +24,9 @@ Desarrollador web
 
 ## Mis redes sociales
 
+<a href="https://chelitodelgado.github.io/angelparedes/">
+  <img align="left" alt="Linkdein" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_532695.png&f=1&nofb=1" />
+</a>
 <a href="https://www.linkedin.com/in/angel-paredes-torres/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
