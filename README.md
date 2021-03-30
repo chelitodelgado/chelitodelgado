@@ -15,11 +15,11 @@ Desarrollador web
 
 - Soy Desarrollador web.
 
-- A Angel le encanta programar, el ajedrez, tomar café, cocinar y salir a caminar con sus perros.
+- Me gusta programar, el ajedrez, tomar café, cocinar y salir a caminar con mis perros.
 
-- No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico y un poco cohibido cuando esta cerca de muchas personas.
+- Siempre que algo me interesa me obsesiono y me gusta saber mas a fondo.
 
-- Habla español y un poco de ingles aún que sigue estudiando esta lengua.
+- Hablo español y un poco de ingles aún que sigue estudiando esta lengua.
 
 
 ## Mis redes sociales
