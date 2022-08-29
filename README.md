@@ -33,7 +33,7 @@ Desarrollador web
 <a href="https://github.com/chelitodelgado/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-https://www.youtube.com/watch?v=A5CZTA-6oWU
+
 <a href="mailto:angelparedestorres.apt@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
