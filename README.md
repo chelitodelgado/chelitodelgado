@@ -13,13 +13,11 @@ Desarrollador web
 
 ## Acerca de mi
 
-- Soy Desarrollador web.
+- Además de mi trabajo como desarrollador, dedico gran parte de mi tiempo libre a jugar ajedrez, un juego que me encanta por su complejidad y estrategia. Me gusta participar en torneos locales y seguir las partidas de los grandes maestros en línea.
 
-- Me gusta programar, el ajedrez, tomar café, cocinar y salir a caminar con mis perros.
+- En mi perfil de GitHub, encontrarás algunos de mis proyectos de programación, tanto personales como profesionales. Me encanta trabajar en equipo y colaborar en proyectos open source, por lo que siempre estoy buscando nuevas oportunidades de colaboración.
 
-- Siempre que algo me interesa me obsesiono y me gusta saber mas a fondo.
-
-- Hablo español y un poco de ingles aún que sigue estudiando esta lengua.
+- Si tienes algún proyecto interesante en el que pueda ayudar, no dudes en contactarme. ¡Estoy siempre dispuesto a aprender y a colaborar en nuevos desafíos!
 
 
 ## Mis redes sociales
